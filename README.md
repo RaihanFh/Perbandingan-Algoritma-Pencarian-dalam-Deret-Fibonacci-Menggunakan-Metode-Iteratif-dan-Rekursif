@@ -1,2 +1,4 @@
 # Perbandingan-Algoritma-Pencarian-dalam-Deret-Fibonacci-Menggunakan-Metode-Iteratif-dan-Rekursif
-Algoritma perbandingan algoritma fibonacci metode iteratif dan rekursif untuk tugas besar MK Analisis Kompleksitas Algoritma
+Algoritma perbandingan algoritma fibonacci metode iteratif dan rekursif untuk tugas besar MK Analisis Kompleksitas Algoritma.
+
+Studi kasus ini akan membahas perbandingan efisiensi antara algoritma pencarian dalam deret Fibonacci menggunakan dua pendekatan: iteratif dan rekursif. Deret Fibonacci adalah urutan angka di mana setiap elemen merupakan hasil penjumlahan dua elemen sebelumnya. Tujuan utama dari algoritma pencarian dalam deret Fibonacci adalah untuk menemukan nilai ke-n dalam urutan tersebut. Dalam versi rekursif, algoritma ini memanggil dirinya berulang kali untuk menghitung elemen Fibonacci, sedangkan versi iteratif menghitung deret Fibonacci secara berurutan menggunakan loop. Studi ini akan mengevaluasi kedua metode tersebut berdasarkan kompleksitas waktu dengan menganalisis waktu eksekusi dari kedua program pada berbagai ukuran masukan, menggambarkan grafik hasilnya, serta menentukan kelas kompleksitas masing-masing algoritma.
